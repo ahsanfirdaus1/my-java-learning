@@ -36,10 +36,10 @@ public class SwitchCase1 {
                 System.out.println("Lha, ini siapa berarti?");
                 System.out.println("Semoga hari mu senin terus hehe");
             
+                
+            }
             // Jangan lupa nama inputannya ditutup ya
             inputScanner.close();
-
-        }
 
         
 

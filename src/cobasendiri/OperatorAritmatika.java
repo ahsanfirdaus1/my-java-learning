@@ -19,6 +19,9 @@ public class OperatorAritmatika {
 
         System.out.printf("Hello Ahsan");
 
+        System.out.format("Angka pertama %d dan Angka kedua %d", a, b);
+        
+
         
     }
 }
